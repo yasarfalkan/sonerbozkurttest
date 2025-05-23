@@ -149,3 +149,160 @@ http://freeiptv.ottc.xyz:80/live/757237734736/463797917854/1438086.ts
 http://freeiptv.ottc.xyz:80/live/757237734736/463797917854/1438087.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR| FILSPORT 7 PPV" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovLzEwMy4xNzYuOTAuMTE4L3BpY29ucy9sb2dvcy9VU0EvZmlsYm94LnBuZw%3D%3D" group-title="TR| FIL SPOR",TR| FILSPORT 7 PPV
 http://freeiptv.ottc.xyz:80/live/757237734736/463797917854/1438088.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS1 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:BEINSPORTS1 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS2 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:BEINSPORTS2 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS3 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:BEINSPORTS3 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS4 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:BEINSPORTS4 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS5 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:BEINSPORTS5 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTSMAX1 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:BEINSPORTSMAX1 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTSMAX2 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:BEINSPORTSMAX2 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:SSPORT HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:SSPORT HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:SSPORT2 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:SSPORT2 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:SMARTSPOR HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:SMARTSPOR HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuksmartspor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:SMARTSPOR2 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:SMARTSPOR2 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuksmartspor2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR1 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:TIVIBUSPOR1 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktivibuspor1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR2 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:TIVIBUSPOR2 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktivibuspor2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR3 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:TIVIBUSPOR3 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktivibuspor3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR4 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SPOR KANALLARI",TR:TIVIBUSPOR4 HD
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1808.xyz/
+https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktivibuspor4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="SPOR KANALLARI", beIN Sports 1
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.turasdjnj2121dsa.workers.dev/list//yayinkral.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="SPOR KANALLARI", beIN Sports 2
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.turasdjnj2121dsa.workers.dev/list//yayinb2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="SPOR KANALLARI", beIN Sports 3
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.turasdjnj2121dsa.workers.dev/list//yayinb3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="SPOR KANALLARI", beIN Sports 4
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.turasdjnj2121dsa.workers.dev/list//yayinb4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="SPOR KANALLARI", beIN Sports 5
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.turasdjnj2121dsa.workers.dev/list//yayinb5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="SPOR KANALLARI", beIN Sports 1 Max
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.turasdjnj2121dsa.workers.dev/list//yayinbm1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="SPOR KANALLARI", beIN Sports 2 Max
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.turasdjnj2121dsa.workers.dev/list//yayinbm2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", beIN Sports 1
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayinzirve.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", beIN Sports 1
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayininat.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", beIN Sports 1
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayin1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", beIN Sports 2
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayinb2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", beIN Sports 3
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayinb3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", beIN Sports 4
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayinb4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", beIN Sports 5
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayinb5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", beIN Sports 1 Max
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayinbm1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", beIN Sports 2 Max
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayinbm2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", Saran Sports 1
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayinss.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", Saran Sports 2
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayinss2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", Tivibu Sports 1
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayint1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", Tivibu Sports 2
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayint2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", Tivibu Sports 3
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayint3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", Tivibu Sports 4
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayint4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", Smart Sports
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayinsmarts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="SPOR KANALLARI", Smart Sports 2
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz
+https://f0.4928d54d950ee70q6.lat/yayinsms2.m3u8
